@@ -1,6 +1,6 @@
-import { Plus_Jakarta_Sans } from "next/font/google";
+import { Geist } from "next/font/google";
 
-const fontSans = Plus_Jakarta_Sans({
+const fontSans = Geist({
   subsets: ["latin"],
   display: "swap",
 });
